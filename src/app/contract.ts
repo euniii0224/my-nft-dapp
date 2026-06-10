@@ -648,4 +648,4 @@ export const contractABI = [
     stateMutability: 'view',
     type: 'function',
   },
-]
+] as const
